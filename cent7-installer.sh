@@ -13,3 +13,4 @@ yum install cuda-10-2
 yum -y install cuda-drivers
 
 # do i need to disable noveu drivers in grub, and black list them in yum?
+# do i need to black list updates for cuda and graphics driver?
